@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleecmp&label=Profile%20views&color=0e75b6&style=flat" alt="aleecmp" /> </p>
 
-- 🌱 I’m currently learning **Python and GO**
+- 🌱 I’m currently learning **GO**
 
 - 📫 How to reach me **ale.cmpb@gmail.com**
 
