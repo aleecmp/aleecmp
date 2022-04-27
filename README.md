@@ -1,5 +1,6 @@
-<div align="center"><h2> Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2></div>
+<div align="center"><h2>Hey! Nice to see you<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2></div>
 
+<h3>Welcome to my profile</h3>
 <h3 align="center">I'm Alexis, a Full Stack Developer from Chile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleecmp&label=Profile%20views&color=0e75b6&style=flat" alt="aleecmp" /> </p>
