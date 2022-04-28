@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning  [Ruby](https://www.ruby-lang.org/en/)
 
--  📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:alee.cmpb@gmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexiscampusanodev/)
+-  📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:ale.cmpb@gmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexiscampusanodev/)
 
 <table><tr><td valign="top" width="33%">
 <h3 align="center">Programming Languages</h3>
