@@ -35,23 +35,3 @@
 <p align="center">  <a href="https://www.postgresql.org/" > <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" > <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://postman.com" > <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
   
 </td></tr></table>
-
-<details>	
-  <summary><b>🖥️ GITHUB STATS </b></summary>
-
-### Activity stats
-
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=aleecmp&show_icons=true&locale=en&theme=tokyonight"/></div>
-
-### Language stats
-
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleecmp&exclude_repo=Datacamp_Projects&show_icons=true&locale=en&langs_count=10&layout=compact&theme=tokyonight"/></div>
-
-### Streak stats
-
-<div align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aleecmp&theme=tokyonight"/></div>
-  
-</details>
-
-<h4>Thanks for giving my profile a view. Here's a programming joke for you :D</h4>
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
